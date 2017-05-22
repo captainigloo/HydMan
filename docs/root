@@ -1,3 +1,16 @@
 
 https://github.com/ivmech/ivPID
 Control LQ LQR
+https://github.com/djolez/hydroponic
+https://github.com/jcu-eresearch/Aquarium-PH-Controller/
+https://github.com/plotly/atlas-scientific
+
+https://github.com/varhub/pid/
+http://cgkit.sourceforge.net/doc2/pidcontroller.html#PIDController
+http://code.activestate.com/recipes/577231-discrete-pid-controller/
+
+http://examples.oreilly.com/9780596809577/CH09/PID.py
+
+https://github.com/sandves/pid/blob/master/pid.py
+https://github.com/drogenlied/pypid
+https://github.com/drogenlied/pypid/blob/master/examples/temp_monitor.py
