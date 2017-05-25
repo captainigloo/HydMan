@@ -11,6 +11,7 @@
 T,19.5
 
 <img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/Dynamic%20Temerature%20compensation.png" width="600">
+
 ## Set type of probe
 
 K,0.1 K,1.0 K,10
