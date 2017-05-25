@@ -21,14 +21,6 @@ K,0.1 K,1.0 K,10
 <img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/Dynamic%20Temerature%20compensation.png" width="600">
 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
