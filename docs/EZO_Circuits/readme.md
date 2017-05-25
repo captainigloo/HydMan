@@ -8,7 +8,8 @@
 
 ## Dynamic set Temperature compensation
 
-T,19.5 (i2cset -y 1 0x64 0x54 0x31 0x39 0x2e 0x35)
+T,19.5
+![alt text](https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/Dynamic%20Temerature%20compensation.png "")
 
 ## Set type of probe
 
