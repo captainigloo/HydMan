@@ -36,4 +36,4 @@ function fancyAlert(arg) {
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k5-2nCUxybU
 " target="_blank"><img src="http://img.youtube.com/vi/k5-2nCUxybU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600"  border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="600"  border="0" /></a>
