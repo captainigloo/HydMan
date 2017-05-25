@@ -21,13 +21,13 @@ K,0.1 K,1.0 K,10
 <img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/Dynamic%20Temerature%20compensation.png" width="600">
 
 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
+###TeX(LaTeX)
+   
+$$E=mc^2$$
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
+Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
+
+$$\(\sqrt{3x-1}+(1+x)^2\)$$
+                    
+$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ```
