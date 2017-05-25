@@ -1,21 +1,21 @@
-# EZO EC (Electrical Conductivity)
+# Specifications & I²C commands
 
-## Data type (EC,TDS,SAL,SG)
+## EZO EC (Electrical Conductivity)
+
+### Data type (EC,TDS,SAL,SG)
 - EC	Electrical Conductivity (μS - microSiemens)
 - TDS 	Total Dissolved solids (PPM)
 - SAL	Salinity (PSU - practical salinity uni)
 - SG	Specific Gravity
 
-## Dynamic set Temperature compensation
+### Dynamic set Temperature compensation
 
 T,19.5
 
-
-
-## Set type of probe
+### Set type of probe
 
 K,0.1 K,1.0 K,10
 
-# EZO RTD (PT-1000 : °C, °F, °K)
-
+## EZO RTD (PT-1000 : °C, °F, °K)
+### Dynamic set Temperature compensation
 <img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/Dynamic%20Temerature%20compensation.png" width="600">
