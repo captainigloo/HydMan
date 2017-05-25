@@ -8,7 +8,7 @@
 
 ## Dynamic set Temperature compensation
 
-T,19.5
+T,19.5 (i2cset -y 1 0x54 0x31 0x39 0x2e 0x35)
 
 ## Set type of probe
 
