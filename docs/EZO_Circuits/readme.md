@@ -1,4 +1,4 @@
-# Specifications & I²C commands
+# Specifications & I²C commands (ASCII)
 
 ## EZO EC (Electrical Conductivity)
 
