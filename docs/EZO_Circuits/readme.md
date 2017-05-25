@@ -35,5 +35,5 @@ function fancyAlert(arg) {
 - [ ] this is an incomplete item
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k5-2nCUxybU
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/k5-2nCUxybU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
