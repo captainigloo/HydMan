@@ -9,6 +9,7 @@
 | pH  | 0x63  | 99  |
 | EC  | 0x64  | 100  |
 | RTD  | 0x66  | 102  |
+| PMP  | 0x67  | 103  |
 
 ## EZO EC (Electrical Conductivity)
 
