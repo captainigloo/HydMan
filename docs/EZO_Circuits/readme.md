@@ -1,5 +1,12 @@
 # Specifications & I²C commands (ASCII)
 
+## EZO I²C Address :
+- DO: 0x60 (97)
+- ORP: 0x61 (98)
+- pH: 0x63 (99)
+- EC: 0x64 (100)
+- RTD: 0x66 (102)
+
 ## EZO EC (Electrical Conductivity)
 
 ### Data type (EC,TDS,SAL,SG)
