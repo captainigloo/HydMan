@@ -2,14 +2,14 @@
 
 ## EZO I²C Address :
 
-| EZO  | HEX  | ASCII  |
-|:-:|:-:|:-:|
-| DO  | 0x60  | 97  |
-| ORP  | 0x61  | 98  |
-| pH  | 0x63  | 99  |
-| EC  | 0x64  | 100  |
-| RTD  | 0x66  | 102  |
-| PMP  | 0x67  | 103  |
+|| EZO  | HEX  | ASCII  |
+|:-:|:-:|:-:|:-:|
+|<img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/do.png">| DO  | 0x60  | 97  |
+|<img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/orp.png">| ORP  | 0x61  | 98  |
+|<img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/ph.png">| pH  | 0x63  | 99  |
+|<img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/ec.png">| EC  | 0x64  | 100  |
+|<img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/rtd.png">| RTD  | 0x66  | 102  |
+|<img src="https://github.com/captainigloo/HydMan/blob/master/docs/EZO_Circuits/peristaltic.png">| PMP  | 0x67  | 103  |
 
 ## EZO EC (Electrical Conductivity)
 
