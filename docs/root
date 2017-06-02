@@ -14,3 +14,12 @@ http://examples.oreilly.com/9780596809577/CH09/PID.py
 https://github.com/sandves/pid/blob/master/pid.py
 https://github.com/drogenlied/pypid
 https://github.com/drogenlied/pypid/blob/master/examples/temp_monitor.py
+sudo apt-get install python-dev python-devel python-setuptool
+python-setuptool
+sudo apt-get install python-pip
+sudo apt-get install python-dev
+wget https://bootstrap.pypa.io/get-pip.py
+sudo sudo python get-pip.py
+
+pip install scipy
+pip install numpy 
