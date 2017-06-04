@@ -42,7 +42,10 @@ K,0.1 K,1.0 K,10
 
 ## EZO PMP
 <img src="https://scontent-cdg2-1.cdninstagram.com/t50.2886-16/18785726_212682725908972_7723313300947075072_n.mp4" width="600">
-
+<video controls="controls" poster="http://distilleryimage3.ak.instagram.com/2f7c10d8d9e911e28df922000a9f1991_7.jpg" width="640" height="640">
+	<source src="https://distilleryimage3.s3.amazonaws.com/2f7c10d8d9e911e28df922000a9f1991_101.mp4" type="video/mp4" />
+	<img alt="5th Ave" src="http://distilleryimage3.ak.instagram.com/2f7c10d8d9e911e28df922000a9f1991_7.jpg" width="640" height="640" title="No video playback capabilities, please download the video below" />
+</video>
 
 ```python
 s = "Python syntax highlighting"
