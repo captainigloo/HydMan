@@ -11,7 +11,7 @@ Tentacle T3
 
 
 
-## Probes (Sensor)
+## Probes (Sensors)
 
 - Atlas Scientific EZO pH
 - Atlas Scientific EZO DO
