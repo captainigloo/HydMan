@@ -1,12 +1,12 @@
-#Parts List / Bill of materials (BOM) 
+# Parts List / Bill of materials (BOM) 
 
 
-##Pi schields
+## Pi schields
 
 Tentacle T3
 
 
-##Probes (Sensor)
+## Probes (Sensor)
 
 Atlas Scientific EZO pH
 Atlas Scientific EZO DO
